@@ -5,8 +5,11 @@ This is my submisssion for Coursera's Getting and Cleaning Data Course Project.
 It contains four files:
 
 1) This README.md containing a description of all files;
+
 2) A CodeBook.md file explaning how this study was done, the variables, data, and transformations performed to clean up the data;
+
 3) A run_analysis.R file with the code used to clean the data and fulfill the course project's goals;
+
 4) An extract.txt file with an independent tidy data set with the average of each variable for each activity and each subject (project step #5).
 
 Data Course Project Goals:
